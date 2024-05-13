@@ -12,6 +12,15 @@ Visualized Metrics: Providing visual representations of evaluation metrics facil
 Custom Input Capability: Users can input individual sentences or reviews for analysis, alongside testing the model on datasets.
 Translation Feature: Translates dataset sentences into English using Google Translate, facilitating analysis based on the translated content.
 
+Running the Project
+To run the project on your system, follow these steps:
+
+Clone the repository to your local machine.
+Install the required dependencies by running pip install -r requirements.txt.
+Open the Colab Notebook provided in the link above using Google Colab.
+Follow the instructions in the notebook to execute the code and analyze the results.
+For custom input, modify the provided code snippets according to your requirements.
+Enjoy exploring the sentiment analysis solution for Hindi language reviews!
 
 Results
 Ensemble techniques, particularly stacking and averaging, outperformed individual models in terms of accuracy, precision, and recall.
